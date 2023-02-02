@@ -1,0 +1,2 @@
+mkdir model_ckpt
+gdown 'https://drive.google.com/u/1/uc?id=1M1el02qW87Qa5dKOzaK0ig3Hx45F3F2k&export=download&confirm=t&uuid=8b18a3c7-0f24-4a7c-9826-4935842f6bb6&at=ACjLJWlTajBr4HG-Y657G2YYnRQi:1672852267207' -O ./model_ckpt/model.pt
